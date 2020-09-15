@@ -1,3 +1,3 @@
-# data-science-proyecto2
+# Data Science - Caso práctico 2
 
-<b> Este proyecto se habilitará una vez comience la parte 2 </b>
+<b> Usa la base de datos "synergy_logistics_database.csv" para completar los análisis solicitados en el PDF. </b>
